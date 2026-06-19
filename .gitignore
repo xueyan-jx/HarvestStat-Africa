@@ -184,3 +184,11 @@ data/crop/Harvestat_crop_yield_anomalies.hdf
 data/crop_raw_data/adm_crop_data_raw_NE.csv
 data/crop_raw_data/adm_crop_data_raw_ZW.csv
 data/crop_raw_data/adm_crop_data_raw_BJ.csv
+.Rproj.user
+
+
+# Xue
+data/
+docs/
+figures/
+notebook/
